@@ -1,0 +1,155 @@
+
+@font-face {
+    font-family: Sacramento;
+    src: url(../daniel_Garcia/fonts/Sacramento/Sacramento-Regular.ttf)
+}
+@font-face {
+    font-family: Monsterrat;
+    src: url(../daniel_Garcia/fonts/Montserrat/Montserrat-Regular.ttf)
+}
+ .top{
+     color: darkcyan;
+    font-size: 60px;
+    font-family: Sacramento;
+    text-align: center;
+    background-color: #cfe8f0;
+    margin-top: opx;
+    margin-bottom:0px;
+    padding: bottom 0px;
+  
+    }
+.Daniel{
+      color: darkcyan;
+        font-family: Sacramento;;
+        font-weight: bolder;
+    }
+    #webdev{
+        margin-bottom: 50px;
+    }
+h1{
+    text-align: center;
+    font-family:sacramento;
+    font-weight: 900;
+}
+h2{
+    color: black;
+    font-family: merriweather;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+h3{
+    text-align:center;
+    font-family: monsterrat;
+    font-family: monsterrat;
+}
+p{
+ 
+   text-align: center;
+   font-size: 10;
+   font-family: monsterrat;
+   font-weight: bold;
+}
+.get{
+    color: rgb(9, 175, 175);
+    font-size: 26px;
+}
+#Profile{
+   padding-buttom:30px;
+}
+.skills{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#browser{
+    position:absolute;
+   left: 23%;
+   width: 120px;
+    height: 120px;
+}
+#gif{
+    position:absolute;
+    left: 23%;
+    width: 120px;
+    height: 120px;
+}
+#par1{
+    position: relative;
+    padding: 3px 6px px 420px;
+    text-align: left;
+  
+}
+#par2{
+    position: relative;
+    padding: 3px 6px px 420px;
+    text-align: left;
+
+}
+ #cloud1{
+        position: relative;;
+        padding-left: 750px;
+        margin-top: auto;
+        margin-right: 800px;
+        top: 50px;
+        margin-right: 100px;
+        animation: moveInLeft 2s ease-in,infinite;
+        animation-iteration-count: infinite;
+        transition: ease-out,infinite;
+        transition-duration: 5s;
+        transition-timing-function: ease-in-out;
+    }
+#cloud2{
+        padding-right:400px;
+        position: relative;
+        margin-top: auto;
+        margin-right: 700px;
+        top: 50px;
+        margin-left: 100px;
+        animation: moveInLeft 2s ease-in,infinite;
+        animation-iteration-count: infinite;
+        transition: ease-out,infinite;
+        transition-duration: 5s;
+        transition-timing-function: ease-in-out;
+    }
+body{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+    background-size: 0%;
+     background-color: rgb(189, 221, 253) ;
+   }
+.description{
+    text-align: center;
+}
+.mountain{
+    text-align: center;
+}
+#circular--square{
+    border-radius:50%;
+    margin-bottom:15px;
+    margin-top: 10px;
+}
+#button{
+    left: 45%;
+    position: relative;
+    text-decoration: none;
+    width: 130px;
+    height: 40px;
+    
+}
+link{
+     text-align: center;
+ } 
+ footer{
+    background-color:#84c1ff  ;
+    padding-top: 0px;
+    font-family:monsterrat;
+    text-align: center;
+    background-size: 0px;
+    margin-left: 0px; 
+}
